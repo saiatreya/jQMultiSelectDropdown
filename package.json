@@ -1,0 +1,25 @@
+{
+  "name": "jQMultiSelectDropdown",
+  "version": "1.0.0",
+  "description": "Jquery Multi Select Search Dropdown",
+  "main": "jQMultiSelectDropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saiatreya/jQMultiSelectDropdown.git"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ],
+  "author": "Niranjan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saiatreya/jQMultiSelectDropdown/issues"
+  },
+  "homepage": "https://github.com/saiatreya/jQMultiSelectDropdown#readme",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
